@@ -20,3 +20,13 @@ const minMax = (nums) => {
 };
 
 console.log(minMax([1, 2, 3, 4, 5, 6]));
+
+// Chalange 3
+
+((length, width) => {
+  const area = length * width;
+  const output = `Area is ${length} x ${width} = ${area}`;
+
+  console.log(output);
+})(10,20);
+
