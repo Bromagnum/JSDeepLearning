@@ -21,4 +21,4 @@ const socialObjs = [
   { name: "Instagram", url: "instagram.com" },
 ];
 
-socialObjs.forEach(item => console.log(item.url))
+socialObjs.forEach(item => console.log(item.ur))
