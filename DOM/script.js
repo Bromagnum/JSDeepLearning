@@ -7,3 +7,16 @@
  * Represented as a tree structure
  */
 
+// console.log(document.links[0]);
+
+// document.body.innerHTML = "<h1> Hello World<h1>"
+
+// document.write("Hello bitches");
+
+console.log(document.getElementById("main"));
+
+const main = document.getElementById("main");
+
+// main.innerHTML = "<h1>Hello World<h1>"
+
+// document.querySelector('#main h1').innerText = "<h1>Hello World<h1>";
